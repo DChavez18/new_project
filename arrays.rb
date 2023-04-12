@@ -24,3 +24,14 @@ booleans.unshift(5==5)
 # ie: numbers = [1, 2, 3, 4]
 #     puts numbers[0]
 #     --> 1
+
+#Sample method - chooses a random element from an array.
+# 
+# ie; numbers = [1, 2, 3, 4, 5]
+#
+#     numbers.sample
+#     3
+#     numbers.sample
+#     1
+#     numbers.sample
+#     5
