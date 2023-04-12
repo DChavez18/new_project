@@ -17,3 +17,10 @@ decimals.shift
 booleans.unshift(5==5)
 # This will add the boolean (5==5) to the beginning of the
 # array
+
+# Index Positions - this refers to the number assigned to 
+# elements in an array.
+
+# ie: numbers = [1, 2, 3, 4]
+#     puts numbers[0]
+#     --> 1
